@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on  Flutter
 - 🌱 I’m currently learning Flutter
-- 📫 How to reach me: Linkdin @Riyaz ul haq mansuri(https://www.linkedin.com/in/riyaz-ul-haq-mansuri-457a10172/)
+
+### Stats
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Riyazmansuri&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Riyazmansuri" /> </p>
