@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on  Flutter
 - 🌱 I’m currently learning Flutter
-- 📫 How to reach me: ...<a href="https://www.linkedin.com/in/riyaz-ul-haq-mansuri-457a10172/"> 
+- 📫 How to reach me: Linkdin @Riyaz ul haq mansuri(https://www.linkedin.com/in/riyaz-ul-haq-mansuri-457a10172/)
