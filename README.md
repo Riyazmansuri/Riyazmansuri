@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+    I'm Riyaz an Engineering graduate who is passionate toward mobile application development & now trying to make a career out of it
 <!--
 **Riyazmansuri/Riyazmansuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on  Flutter
+- 🌱 I’m currently learning Flutter
+- 📫 How to reach me: ...<a href="https://www.linkedin.com/in/riyaz-ul-haq-mansuri-457a10172/"> 
