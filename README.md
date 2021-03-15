@@ -1,5 +1,5 @@
 ### Hi there 👋
-    I'm Riyaz an Engineering graduate & a passionate mobile application developer
+    I'm Riyaz ul haq mansuri an Engineering graduate & a passionate mobile application developer
     
 <!--
 **Riyazmansuri/Riyazmansuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
