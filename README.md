@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on  Flutter
 - 🌱 I’m currently learning Flutter
-- 💬 Ask me about Android,Flutter,Java,Dart,XML
+- 💬 Ask me about anything I'll try my best to help you out
 - ⚡ Fun fact: There's no such thing as a Veg Biryani
 ### Stats
 
