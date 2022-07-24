@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on  Flutter
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on  Frontend Development
+- 🌱 I’m currently learning React & Angular
 - 💬 Ask me about anything I'll try my best to help you out
 - ⚡ Fun fact: There's no such thing as a Veg Biryani
 ### Stats
